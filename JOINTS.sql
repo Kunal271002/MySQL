@@ -1,0 +1,7 @@
+-- JOINTS
+-- 5 Types of joints;
+-- INNER JOIN  -- Common Tuple
+-- OUTER JOIN -- 1. LEFT join 2. RIGHT join
+-- FULL JOIN
+-- SELF JOIN  -- 
+-- CROSS JOIN  -- No industry Use 
